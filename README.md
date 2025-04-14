@@ -3,6 +3,10 @@
 This project is an all in one attempt to create a one stop webapp for all your PY-USD needs. The project makes use of Phantom Wallet with Test tokens on both Solana Devnet and Ethereum Sepolia for diversibility purposes. The project is built using Next Js and intergrated into GCP blockchain RPC to fetch transaction data. A feature yet to be implemented is the payment feature to ensure that users connected to the app with their wallet can pay for services with their coins securely on web3. The test coins have been minted from [Paxos](faucet.paxos.com).
 
 The project brings transparency to the PYUSD network and it is a fun way to look at and analyze transactions.
+![Screenshot (388)](https://github.com/user-attachments/assets/5053393a-922d-4d43-ad21-e95713d8f02e)
+
+
+![Screenshot (389)](https://github.com/user-attachments/assets/a9652200-7d86-46ce-8211-243ebd9e4fb3)
 
 ## Installation and set up.
 The following are instructions to install and run the webapp.
