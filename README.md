@@ -54,6 +54,10 @@ gcloud blockchain-node-engine nodes create eth-node \--location=us-central1 \--n
 
 More features to be added are the payment option to transfer PYUSD coins over the network to pay for services as Payment as a service. The fact that PYUSD is a stablecoin makes it ideal for paying for things whose value doesn't change over time.
 
+## Video
+
+https://github.com/user-attachments/assets/ac9b6bb3-1708-453b-9890-8f28f18e7a7c
+
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
